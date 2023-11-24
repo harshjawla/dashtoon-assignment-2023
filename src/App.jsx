@@ -57,12 +57,6 @@ export default function HeroLeft01() {
           transform: "translateX(-50%)",
         }}
       >
-        Made with &#x1F495; by{" "}
-        <a style={{
-          color: "inherit",
-        }} href="https://amreshsinha.vercel.app/" target="_blank" rel="noreferrer">
-          Amresh
-        </a>
       </Typography>
     </Box>
   );
